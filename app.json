@@ -4,8 +4,7 @@
     "slug": "LiveSnap",
     "version": "1.0.0",
     "plugins": [
-      "expo-secure-store",
-      "react-native-widget-extension"
+      "expo-secure-store"
     ],
     "ios": {
       "infoPlist": {
