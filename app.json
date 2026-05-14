@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "LiveSnap",
+    "slug": "LiveSnap",
+    "version": "1.0.0",
+    "plugins": [
+      "expo-secure-store",
+      "react-native-widget-extension"
+    ],
+    "ios": {
+      "infoPlist": {
+        "UIBackgroundModes": [
+          "remote-notification"
+        ]
+      }
+    }
+  }
+}
